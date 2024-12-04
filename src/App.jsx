@@ -3,6 +3,6 @@ import Weat from "./clone/Weat";
 export default function App(){
   return(<div>
     <WeatherApp/>
-    <Weat/>
+    
   </div>)
 }
